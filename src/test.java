@@ -10,5 +10,9 @@ public class test {
     public static void sepetSil(){
         System.out.println("sepet muz");
     }
+
+    public static void yenidenDene(){
+        System.out.println("yeniden metodumuz");
+    }
 }
 
