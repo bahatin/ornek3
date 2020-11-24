@@ -6,5 +6,9 @@ public class test {
     public static void yenmetod(){
         System.out.println("yeni metodumuz");
     }
+
+    public static void sepetSil(){
+        System.out.println("sepet muz");
+    }
 }
 
